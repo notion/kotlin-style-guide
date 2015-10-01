@@ -4,8 +4,8 @@ TODO: Introduction
 
 ## Table of Contents
 
-[Syntax](#syntax)
-[Naming](#naming)
+* [Syntax](#syntax)
+* [Naming](#naming)
 
 ## Syntax
 
